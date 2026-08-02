@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://www.threadai.com/trust-center
+url: https://www.threadai.com/trust-center
+certifications:
+- SOC 2 Type 2
+- HIPAA
+- GDPR
+- CJIS
+- CMMC 2.0 Level 1
+in_progress:
+- CMMC 2.0 Level 2
+- FedRAMP
+notes: 'Encryption at rest and in transit (AES-256-GCM), MFA, identity-aware access
+  control, tenant data isolation. Deployment options: VPC, on-premises, multi-tenant
+  SaaS. SOC 2 Type 2 report, DPA, and security questionnaire responses available on
+  request via the contact page.'
+evidence:
+- source: https://www.threadai.com/trust-center
+  keywords:
+  - soc 2 type 2
+  - hipaa
+  - gdpr
+  - cjis
+  - cmmc 2.0
+  - fedramp
+  - trust center

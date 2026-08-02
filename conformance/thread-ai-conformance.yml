@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.threadai.com/trust-center
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: SOC 2 Type 2, independently audited against AICPA Trust Services Criteria (security, availability, confidentiality)
+- id: hipaa
+  conforms: true
+  evidence: Trust center states HIPAA compliance for healthcare data protection
+- id: gdpr
+  conforms: true
+  evidence: Trust center states alignment with EU GDPR data protection regulations
+- id: cjis
+  conforms: true
+  evidence: Compliant with FBI Criminal Justice Information Services (CJIS) policy
+- id: cmmc-2.0-level-1
+  conforms: true
+  evidence: CMMC 2.0 Level 1 self-assessment completed
+- id: cmmc-2.0-level-2
+  conforms: false
+  evidence: In progress toward CMMC 2.0 Level 2 certification
+- id: fedramp
+  conforms: false
+  evidence: FedRAMP authorization underway for federal agency deployments

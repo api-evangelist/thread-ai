@@ -1,0 +1,24 @@
+# Thread AI
+
+> Thread AI builds AI orchestration infrastructure for enterprises. Its platform, Lemma, is a composable AI infrastructure and workflow-orchestration layer for deploying production-grade AI agents and workflows in regulated, mission-critical operations, with full audit trails, governance, and reliability controls. Thread AI is backed by Homebrew and Index Ventures.
+
+## Platform
+
+- [Lemma Platform](https://www.threadai.com/platform): Composable AI orchestration infrastructure and workflow builder — drag-and-drop builder, code-first SDK, and REST/gRPC/GraphQL API access, with human-in-the-loop, streaming/batch/interactive execution, and embeddable white-label components.
+- [AI-Readiness Guide](https://www.threadai.com/guide-critical-production-ai): Framework for deploying production-ready AI in critical processes.
+
+## Company
+
+- [Home](https://www.threadai.com): Company overview.
+- [Blog](https://www.threadai.com/blog): Product and company updates.
+- [Contact / Book a Demo](https://www.threadai.com/contact-us): Sales, demos, and compliance document requests.
+
+## Trust & Legal
+
+- [Trust Center](https://www.threadai.com/trust-center): Security posture and certifications — SOC 2 Type 2, HIPAA, GDPR, CJIS, CMMC 2.0 Level 1 (CMMC 2.0 Level 2 and FedRAMP in progress).
+- [Terms of Service](https://www.threadai.com/tos)
+- [Privacy Policy](https://www.threadai.com/privacy-policy)
+
+## Notes
+
+> Thread AI's REST, gRPC, and GraphQL APIs and SDKs are part of the Lemma platform but are not published to a public developer portal, API reference, or package registry as of this writing; access is provisioned through the sales/onboarding process. No public OpenAPI, well-known discovery documents, or public code repositories were found.
