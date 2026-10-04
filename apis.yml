@@ -48,7 +48,7 @@ tags:
 - Company
 - Artificial Intelligence
 - AI Orchestration
-- Workflow-Automation
+- Workflow Automation
 - Agents
 - Enterprise
 - Governance
@@ -62,6 +62,7 @@ tags_raw:
 - Enterprise
 - Governance
 - MLOps
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
